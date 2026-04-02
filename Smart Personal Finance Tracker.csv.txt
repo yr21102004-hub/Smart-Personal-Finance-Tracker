@@ -1,0 +1,26 @@
+id,name,amount,category,date
+1,Ahmed,150,Food,2026-03-25
+2,Sara,200,Shopping,25/03/2026
+3,Ali,,Transport,03-24-2026
+4,,300,Food,2026-03-23 12:30:00
+5,Mona,120,,2026-03-22
+6,Omar,450,Entertainment,22/03/2026
+7,Ahmed,150,Food,2026-03-25
+8,Sara,,Bills,03-21-2026
+9,Ali,80,Transport,2026-03-20
+10,,220,Shopping,20/03/2026
+11,Mona,300,Food,2026-03-19
+12,Omar,,Entertainment,03-18-2026
+13,Ahmed,500,Bills,2026-03-17
+14,Sara,60,Transport,17/03/2026
+15,Ali,90,,03-16-2026
+16,Mona,200,Shopping,2026-03-15
+17,Omar,130,Food,15/03/2026
+18,Ahmed,,Food,03-14-2026
+19,Sara,75,Transport,2026-03-13
+20,,180,Bills,13/03/2026
+21,Ali,220,Shopping,03-12-2026
+22,Mona,300,Food,2026-03-11
+23,Omar,,Entertainment,11/03/2026
+24,Ahmed,400,Bills,03-10-2026
+25,Sara,50,Transport,2026-03-09
