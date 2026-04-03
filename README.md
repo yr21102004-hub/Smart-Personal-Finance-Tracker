@@ -106,7 +106,7 @@ python Smart_personal_finance.py
 
 ## 💼 Author
 
-Developed by [Your Name]
+Developed by [Youssef Ramadan]
 
 ---
 
